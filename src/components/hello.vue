@@ -1,5 +1,5 @@
 <template>
-	hello
+	hello zhaoyang
 </template>
 
 <script>
